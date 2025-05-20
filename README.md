@@ -1,15 +1,17 @@
-# 🤖 Meteora Sniper Bot (Yellowstone gRPC)
-Meteora Sniper bot can detect new pools on Meteora and make trades on these pools.
+# Meteora dlmm Sniper Bot (Yellowstone gRPC)
 
-# 💬 Contact Me
+The Meteora Sniper Bot (Yellowstone gRPC) is designed to detect new pools on Meteora, such as those on believe.app, and execute trades on these pools. It operates as a dlmm (decentralized liquidity market maker) bonding curve - DBC (dynamic bonding curve) sniper.
+The bot specializes in trading on dlmm dynamic bonding curve pools, such as believe.app, allowing for rapid response to new opportunities within the Meteora ecosystem.
 
-If you have any question or something, feel free to reach out me anytime.
-<br>
-#### 🌹 You're always welcome 🌹
+## Contact Me
 
-Telegram: [@hodlwarden](https://t.me/hodlwarden) <br>
+If you wanna build sniper tool on meteora dlmm pool like believe.io, contact here: 
+[Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319
 
-# 👀 Sample Transactions
+
+## Sample Transactions
+
+
 https://solscan.io/tx/3iWBM9mo6EmioqmEaicbyA2oXVuycpu8TXfxot4w82sghh6G3km7f9XZERsCRuEKHzE2LSz2YBzGQdFvTsQ96d95
 https://solscan.io/tx/gFpAL2a5St91Tmdpbin2fjVBxsxmV4aA8tFaJUcFzKxvMvXbKE6N1R1MJ2daPL2XwzNshW6qc38Rf8mRgsQssHX
 https://solscan.io/tx/3sNnUHFbn9wvWssGEgw2mhj3sJWbnpLDrsaG8wzMYytG9qtsBCFFgx23xJ6XTjQXYiuLoeTAKFBinZoXN4BLonSd
