@@ -6,7 +6,7 @@ The bot specializes in trading on dlmm dynamic bonding curve pools, such as beli
 ## Contact Me
 
 If you wanna build sniper tool on meteora dlmm pool like believe.io, contact here: 
-[Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319
+[Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
 
 
 ## Sample Transactions
